@@ -15,3 +15,4 @@ A for loop is used when we know the number of iterations of the block of code (i
 
 # While Loop
 A while loop is used when we do not know the number of iterations required (i.e.) if the number of iterations is unfixed. The 'while loop' is specified with a condition and as long as this condition holds true or is satisfied, the while loop gets executed. The condition specified could be any expression in the conditional statements. If the condition becomes false, the block of code immediately following the loop gets executed.
+

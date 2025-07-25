@@ -2,7 +2,6 @@
 # Theory:
 
 Loops are used to make the program less repetitive and compact by iterating a part of a
-
 program several times. Thus, they are also called repetitive control structures. 
 
 # There are two main types of loops:

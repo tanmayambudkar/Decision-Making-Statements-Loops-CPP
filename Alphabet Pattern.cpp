@@ -12,3 +12,8 @@ int main(){
         cout<<"\n";
     }
 }
+// Output:
+// A
+// B C
+// D E F
+// G H I J
